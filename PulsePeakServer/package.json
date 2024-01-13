@@ -1,0 +1,21 @@
+{
+  "name": "pulsepeakserver",
+  "version": "0.0.1",
+  "description": "Server for Pulse Peak",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "server",
+    "rest",
+    "ws"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
